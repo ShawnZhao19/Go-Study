@@ -1,1 +1,1 @@
-Record my go learning routine
+记录我的go语言学习日常!
