@@ -2,7 +2,7 @@
 
 // import "fmt"
 
-// // go 语言中没有 break
+// // go 语言中 switch 默认不用 break
 // // go 的 switch 可以匹配多个条件，只要有其中一个满足即可
 
 // func getLevel(score int) {
